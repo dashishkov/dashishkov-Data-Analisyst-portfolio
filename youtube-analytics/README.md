@@ -1,6 +1,6 @@
 # Анализ трендов YouTube Russia
 
-**Цель:** исследовать закономерности популярности и попадания видеороликов в тренды на YouTube, используя открытый датасет `RUvideos.csv` (YouTube Trending Video Dataset). Ссылка: <a href="https://www.kaggle.com/datasets/datasnaek/youtube-new" target="_blank">. Анализ охватывает период 14.11.2017 – 14.06.2018 (~40 тыс. записей).
+**Цель:** исследовать закономерности популярности и попадания видеороликов в тренды на YouTube, используя открытый датасет `RUvideos.csv`. Ссылка: <a href="https://www.kaggle.com/datasets/datasnaek/youtube-new" target="_blank">. Trending YouTube Video Statistics
 
 ## Данные
 - Датасет включает сведения о видео: идентификатор, название канала, категория, дата публикации, количество просмотров, лайков, дизлайков, комментариев, список тегов, дату попадания в тренды (trending_date).
